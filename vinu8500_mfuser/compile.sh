@@ -1,0 +1,1 @@
+gcc a01.c -o mfuser
